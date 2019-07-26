@@ -1,0 +1,11 @@
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\bin\Debug\AppVet.exe.config
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\bin\Debug\AppVet.exe
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\bin\Debug\AppVet.pdb
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.csprojResolveAssemblyReference.cache
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.Properties.Resources.resources
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.csproj.GenerateResource.Cache
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.exe
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.pdb
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.Facturacion.frmFacturacion.resources
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.Inicio.frmInicio.resources
+C:\Users\ESOTO\Desktop\May\VetCare\AppVet\AppVet\obj\Debug\AppVet.Producto.frmProducto.resources
